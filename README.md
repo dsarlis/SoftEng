@@ -11,9 +11,9 @@ The project consists of three phases:
 3. Implementation of the application according to the above described specifications.
 
 ## SIP Extensions
-* Call Forwarding: User A can forward his/her calls to user B. In this case, when trying to reach user A, user's B phone will actually ring. There could be a chain of multiple forwarding calls but circles are not permitted.
-* Call Blocking: User A can choose to block user's B calls. That means that when B is trying to reach A, user A seems to be unavailable.
-* Call Billing: Users choose a billing policy from an available list and their calls are charged based on this policy. Only the caller is charged.
+* **Call Forwarding**: User A can forward his/her calls to user B. In this case, when trying to reach user A, user's B phone will actually ring. There could be a chain of multiple forwarding calls but circles are not permitted.
+* **Call Blocking**: User A can choose to block user's B calls. That means that when B is trying to reach A, user A seems to be unavailable.
+* **Call Billing**: Users choose a billing policy from an available list and their calls are charged based on this policy. Only the caller is charged.
 
 ## Requirements
 * Java >= 1.7
