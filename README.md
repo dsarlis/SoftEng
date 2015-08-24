@@ -2,7 +2,7 @@
 Software Engineering: Project
 
 ## Overview
-This project was developed as part of Software Engineering Class at NTUA. The purpose was to extend SIP communicator client JAIN SIP Proxy with 3 additional features. These programs implement Session Initiation Protocol which is used among others for communication applications over Internet such as VoIP (Voice over IP).
+This project was developed as part of Software Engineering Class at NTUA. The purpose was to extend SIP communicator client and JAIN SIP Proxy with 3 additional features. These programs implement Session Initiation Protocol which is used among others for communication applications over Internet such as VoIP (Voice over IP).
 
 The project consists of three phases:
 
